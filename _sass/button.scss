@@ -1,0 +1,23 @@
+.button2 {
+  background-color: #E30285;
+  height: 55px;
+  width: 140px;
+  border-radius: 3px;
+  border:none;
+  color: white;
+  font-weight: 400;
+  text-align: center;
+  display: inline-block;
+}
+
+.button2.large {
+  width: 320px;
+}
+
+.button2 a {
+  color: white;
+}
+
+.button2 a:hover {
+  color: rgba(249, 2, 146, 1.0);
+}
